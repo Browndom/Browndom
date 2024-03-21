@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Browndom</h1>
 <h3 align="center">Devops, Cloud & Platform Engineer</h3>
 
-- 🌱 I’m currently learning **Devops with terraform, dockers, kubernetes, Openshift and CICD with Github Action & jenkins**
+- 🌱 Experienced in **Devops with terraform, dockers, kubernetes, Openshift and CICD with Github Action & jenkins**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
