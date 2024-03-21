@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Devops with terraform, dockers, kubernetes, Openshift and CICD with Github Action & jenkins**
 
-- 📄 Know about my experiences [brownresume.link](brownresume.link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/browndom-ndemaze-131383258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/browndom-ndemaze-131383258/" height="30" width="40" /></a>
