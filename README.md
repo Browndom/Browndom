@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Browndom</h1>
-<h3 align="center">Solutions Architect from canada</h3>
+<h3 align="center">Devops, Cloud & Platform Engineer</h3>
 
-- 🌱 I’m currently learning **Devops with terraform, dockers, kubernetes and jenkins**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Browndom](https://github.com/Browndom)
-
-- 💬 Ask me about **Enterprise solutions architectures and designs**
-
-- 📫 How to reach me **browndonnkengasong@gmail.com**
+- 🌱 I’m currently learning **Devops with terraform, dockers, kubernetes, Openshift and CICD with Github Action & jenkins**
 
 - 📄 Know about my experiences [brownresume.link](brownresume.link)
 
